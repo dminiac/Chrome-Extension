@@ -1,21 +1,18 @@
-# coc8640b4ab7ea074c56f6bdc
+# Chrome Extension- Leads Tracker
 
-Quick start:
 
-```
-$ npm install
-$ npm start
-````
+### Introduction:
+=> It is used for saving the URLs or leads required (mainly designed for sales representative). Built with pure JavaScript and also used Chrome API(```chrome.tabs```).
 
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
+### To add in chrome window:
+=> Download the folder and then redirect to chrome://extensions/ => Click on Load unpacked => Select the downloaded folder of your application => It's done now check in your extension tab.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+### Screenshots for a better understanding :
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+![image](https://github.com/dminiac/Chrome-Extension/assets/53075286/1fa949f9-72f5-482a-966b-42d113777582)
 
-Happy Coding!
+![image](https://github.com/dminiac/Chrome-Extension/assets/53075286/ae3038df-40fd-4a70-9b24-75b3e6b90b0e)
+
+#### On Clicking save Tab:
+![image](https://github.com/dminiac/Chrome-Extension/assets/53075286/2750ed9d-33eb-43ec-89d2-51b32a579f6e)
+
